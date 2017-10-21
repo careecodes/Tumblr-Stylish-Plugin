@@ -1,7 +1,9 @@
-@document url("https://www.tumblr.com/dashboard")
-{
-  #right_column
-  {
-    display: none;
-  }
+@document url("https://www.tumblr.com/dashboard") {
+	#right_column {
+      display: none;
+    }
+	#left_column {
+      margin: 0 auto;
+      float: none;
+    }
 }
