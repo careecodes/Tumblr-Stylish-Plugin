@@ -1,0 +1,5 @@
+@document url("https://www.tumblr.com/dashboard") {
+  .sidebar-ad-container {
+    display: none;
+  }
+}
