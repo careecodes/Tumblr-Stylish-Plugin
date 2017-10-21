@@ -1,5 +1,7 @@
-@document url("https://www.tumblr.com/dashboard") {
-  .sidebar-ad-container {
+@document url("https://www.tumblr.com/dashboard")
+{
+  #right_column
+  {
     display: none;
   }
 }
