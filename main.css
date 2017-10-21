@@ -6,4 +6,16 @@
       margin: 0 auto;
       float: none;
     }
+
+.post.post_full {
+border-radius: 0;
+}
+
+#posts.posts {
+margin-top: 475px;
+}
+
+.posts {
+transform: scale(1.075);
+}
 }
